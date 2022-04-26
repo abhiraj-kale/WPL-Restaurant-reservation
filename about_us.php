@@ -99,7 +99,7 @@
                              <div id="card-details">
                                  <h2>Pool side table</h2>
                                  <p>Have a soothing experience in our pool side dining.</p>
-                                 <p><button class="btn">1-8 people</button></p>
+                                 <p><button class="btn active">1-8 people</button></p>
                              </div>
                          </div>
                     </div>

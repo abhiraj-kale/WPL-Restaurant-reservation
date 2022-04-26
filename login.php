@@ -82,7 +82,7 @@
                 <h2>Login to your account</h2>
             </center>
             <br>
-            <label for="username">Username / Email</label><br>
+            <label for="username">Username</label><br>
             <div class="input-group mb-3">
                 <span class="input-group-text" id="basic-addon1">@</span>
                 <input name="username" type="text" id="username" class="form-control" placeholder="Username" aria-label="Username"
