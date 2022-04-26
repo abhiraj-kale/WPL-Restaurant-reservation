@@ -39,7 +39,7 @@ if (!$conn) {
             <div class="collapse navbar-collapse" id="navbarNavDropdown">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="index.php">Admin Panel</a>
+                        <a class="nav-link active" aria-current="page" href="#">Admin Panel</a>
                     </li>
                 </ul>
             </div>
